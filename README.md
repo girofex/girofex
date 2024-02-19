@@ -6,7 +6,7 @@ My name is 𝙵𝚎𝚍𝚎𝚛𝚒𝚌𝚊
 A cheerful programmer
 ---------------------
 
-I'm a CS student, currently finishing my Bachelor's degree.
+I'm a CS student, now finishing my Bachelor's degree.
 I'm currently working on my portfolio and on the "Lupus in Fabula" project.
 
 <a href="https://www.github.com/girofex" target="_blank" rel="noreferrer"><img
