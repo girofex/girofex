@@ -7,9 +7,7 @@ A cheerful programmer
 ---------------------
 
 I'm a CS student, currently finishing my Bachelor's degree.
-
-* I can't live without: music 🎵
-* I aspire: to be a better person everyday 💙
+I'm currently working on my portfolio and on the "Lupus in Fabula" project.
 
 <a href="https://www.github.com/girofex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/girofex?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
