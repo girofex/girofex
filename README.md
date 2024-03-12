@@ -7,7 +7,7 @@ A cheerful programmer
 ---------------------
 
 I'm a CS student, now finishing my Bachelor's degree.
-I'm currently working on my <a href="http://girofex.github.io">portfolio</a> and on the <a href="https://github.com/AlessandroSimoni/Lupus-in-Fabula">"Lupus in Fabula"</a> project.
+I'm currently working on the <a href="https://github.com/AlessandroSimoni/Lupus-in-Fabula">"Lupus in Fabula"</a> project.
 
 <a href="https://www.github.com/girofex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/girofex?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
