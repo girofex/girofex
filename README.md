@@ -3,8 +3,7 @@ Hi ![]() <img width="55" src="https://media.tenor.com/VPvRG_pVVqAAAAAi/paws-cute
 My name is 𝙵𝚎𝚍𝚎𝚛𝚒𝚌𝚊
 ========================================================================================================================================
 
-I'm a CS student, now finishing my Bachelor's degree.
-I'm currently working on the <a href="https://github.com/AlessandroSimoni/LupusInFabula">"Lupus in Fabula"</a> project.
+Student in Data Science & Engineering - Artificial Intelligence.
 
 [![](https://visitcount.itsvg.in/api?id=girofex&icon=3&color=6)](https://visitcount.itsvg.in)
 
@@ -48,7 +47,3 @@ I'm currently working on the <a href="https://github.com/AlessandroSimoni/LupusI
 ### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
